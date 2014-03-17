@@ -22,7 +22,7 @@ This color scheme is tested with tmux >= 1.5. tmux 1.1 is reported as not workin
 ### My modification
 Here is a screenshot of a tmux session captured from a gnome-terminal using the [Meslo LG M DZ for Powerline font](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/).
 
-![screenshot](https://github.com/gchiam/tmux-colors-solarized/raw/master/tmuxcolors.png)
+![screenshot](https://github.com/gchiam/tmux-colors-solarized/raw/master/tmuxcolors-gchiam.png)
 
 ### Original
 Here is a screenshot of a tmux session captured from a gnome-terminal using the [dz-version of the awesome Inconsolata font](https://github.com/Lokaltog/powerline-fonts).
